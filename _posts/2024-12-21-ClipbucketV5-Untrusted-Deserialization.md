@@ -91,6 +91,7 @@ If an adversary successfully exploited the above issues, it was possible to dele
 Also, if an adversary can identify another gadget chain it would be possible to obtain remote code execution.  
 
 ## Timeline
+
 |||
 |---|---|
 |2024/11/30|Initial vulnerability report via Email was sent|
