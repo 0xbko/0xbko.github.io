@@ -19,8 +19,8 @@ This repository clearly provids an instruction for vulnerability reporting in it
 
 ## CVE-2024-54135 
 ### Vulnerable Code
-|||
-|---|---|
+| | |
+| --- | --- |
 |Version|ClipBucket-v5 Version 2.0 to Version 5.5.1 Revision 199|
 |Vulnerability|PHP Untrusted Deserialisation|
 |Affected File|upload/photo_upload.php|
@@ -69,8 +69,8 @@ The below screenshot shows the application trying to delete the mentioned file:
 
 ## CVE-2024-54136
 ### Vulnerable Code
-|||
-|---|---|
+| | |
+| --- | --- |
 |Version|ClipBucket-v5 Version 5.5.1 Revision 199 and below|
 |Vulnerability|PHP Untrusted Deserialisation|
 |Affected File|upload/upload.php|
