@@ -4,5 +4,8 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Penetration tester, Red teamer.  
+
+`GitHub`: [0xbko](https://github.com/0xbko)  
+
+`Certification`: OSEP, OSWE, OSCP, OSWP, CRTO
