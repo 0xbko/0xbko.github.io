@@ -19,6 +19,7 @@ This repository clearly provids an instruction for vulnerability reporting in it
 
 ## CVE-2024-54135 
 ### Vulnerable Code
+
 | | |
 | --- | --- |
 |Version|ClipBucket-v5 Version 2.0 to Version 5.5.1 Revision 199|
@@ -69,11 +70,12 @@ The below screenshot shows the application trying to delete the mentioned file:
 
 ## CVE-2024-54136
 ### Vulnerable Code
+
 | | |
 | --- | --- |
-|Version|ClipBucket-v5 Version 5.5.1 Revision 199 and below|
-|Vulnerability|PHP Untrusted Deserialisation|
-|Affected File|upload/upload.php|
+| Version | ClipBucket-v5 Version 5.5.1 Revision 199 and below |
+| Vulnerability | PHP Untrusted Deserialisation |
+| Affected File | upload/upload.php |
 
 The version 5.5.1 had the same vulnerability as previous issue in `upload/upload.php`. It also accepted user supplied inputs via `collection` GET parameter:  
 ![](/assets/blog/clipbucketv5/upload.png)  
